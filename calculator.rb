@@ -1,1 +1,1 @@
-def ./calulator.rb(first_number)
+first_number = a

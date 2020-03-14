@@ -1,1 +1,1 @@
-# Add your variables here
+def ./calulator.rb(first_number)
